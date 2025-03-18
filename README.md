@@ -465,4 +465,5 @@ DeepFace wraps some external face recognition models: [VGG-Face](http://www.robo
 DeepFace [logo](https://thenounproject.com/term/face-recognition/2965879/) is created by [Adrien Coquet](https://thenounproject.com/coquet_adrien/) and it is licensed under [Creative Commons: By Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/).
 #   D e e p F a c e  
  #   D e e p F a c e  
+ #   D e e p F a c e  
  
